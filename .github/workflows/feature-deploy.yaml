@@ -1,4 +1,4 @@
-name: "Release to Feature"
+name: "Release to Featurex"
 concurrency:
   group: feature-${{ github.head_ref }}
   cancel-in-progress: true
